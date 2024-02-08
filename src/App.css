@@ -1,0 +1,22 @@
+.App {
+  max-width: 500px;
+  margin: auto;
+}
+
+article {
+  margin-top: 30px;
+}
+
+article h1 {
+  text-align: start;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+
+label {
+  display: block;
+}
+input {
+
+}
